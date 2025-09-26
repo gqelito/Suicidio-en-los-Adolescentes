@@ -1,6 +1,6 @@
-### Hola, soy Gael ¡Bienvenido a mi Proyecto!👋🛸
+### Hola, soy Gael ¡Bienvenido a mi Proyecto!👋🫧
 
-<img src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif" alt="gif" width="130" />
+<img src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif" alt="gif" width="140" />
 
 <div align="justify">
 <h1 align="center"><em><strong>📌 Suicidio en los Adolescentes </strong></em></h1>
