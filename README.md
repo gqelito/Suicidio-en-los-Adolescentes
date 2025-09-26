@@ -1,5 +1,4 @@
-### Hola, soy Gael 👋🏻
-##¡Bienvenido a mi Proyecto!🎩🫧
+### Hola, soy Gael 👋🏻 ¡Bienvenido a mi Proyecto!🎩🫧
 
 <img src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif" alt="gif" width="140" />
 
