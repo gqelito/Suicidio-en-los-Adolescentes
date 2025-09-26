@@ -17,9 +17,9 @@ src=https://www.fmposgrado.unam.mx/wp-content/uploads/SDM2-980x816.png width="30
 - ❓ **Pregunta de investigación:** *¿Por qué es más común el suicidio en los adolescentes?*  
 
 ### 📊 Elementos de Datos
-- 🔹 Datos cuantitativos  
-- 🔹 Datos cualitativos  
-- 🔹 Fuente de datos  
-- 🔹 Variables demográficas  
-- 🔹 Variables de comportamiento  
+ 🔹 Datos cuantitativos  
+ 🔹 Datos cualitativos  
+ 🔹 Fuente de datos  
+ 🔹 Variables demográficas  
+ 🔹 Variables de comportamiento  
 </div>
