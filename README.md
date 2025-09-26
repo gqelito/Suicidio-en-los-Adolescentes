@@ -15,7 +15,7 @@ src=https://www.fmposgrado.unam.mx/wp-content/uploads/SDM2-980x816.png width="30
 - 📑 **Tema:** El suicidio en los adolescentes.  
 - ❓ **Pregunta de investigación:** *¿Por qué es más común el suicidio en los adolescentes?*  
 
-  ### 📊 Elementos de Datos
+### 📊 Elementos de Datos
 - 🔹 Datos cuantitativos  
 - 🔹 Datos cualitativos  
 - 🔹 Fuente de datos  
